@@ -127,3 +127,39 @@
 }
 
 
+.circle {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #E72424;
+    border-radius: 35px;
+    object-fit: none;
+    margin: 68px auto 30px;
+    display: flex;
+}
+
+.h2_text {
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+}
+
+.p_text {
+    width: 350px;
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+}
+
+.cont-center {
+    align-items: center;
+    justify-content: center
+}
